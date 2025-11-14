@@ -1,4 +1,4 @@
-#🛸 Rick and Morty - App React Native
+# 🛸 Rick and Morty - App React Native
 
 Aplicativo que lista personagens da série Rick and Morty consumindo a API pública.
 
